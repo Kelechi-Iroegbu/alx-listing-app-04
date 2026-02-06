@@ -12,7 +12,7 @@ const SPACING = {
 };
 
 const FONT_SIZE = {
-  small: 18,
+  small: 19,
   medium: 24,
   large: 40,
 };
